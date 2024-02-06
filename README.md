@@ -36,4 +36,4 @@ $ npm run dev
 <br>
 
 ## Link do Deploy
-https://portfolio-suzuki.vercel.app/
+https://expert-notes.vercel.app/
