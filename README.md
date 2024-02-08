@@ -37,3 +37,5 @@ $ npm run dev
 
 ## Link do Deploy
 https://expert-notes.vercel.app/
+<br>
+Obs: Em alguns navegadores o site não irá funcionar, pois não tem suporte ao SpeechRecognitionEvent API. 
